@@ -10,7 +10,7 @@
 
 Kohana db-backup usa mysqldump ou mysqlselect caso seu host não aceite mysqldump.
 As configurações de autenticação do banco de dados vem do módulo database.
-[English] Kohana uses mysqldump db-backup mysqlselect or if your host does not accept mysqldump.
+[English] db-backup uses mysqldump or mysqlselect if your host does not accept mysqldump.
  Authentication settings of the database comes from the module database.
 
 -----------------------------------------------------------

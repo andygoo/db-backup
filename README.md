@@ -1,5 +1,4 @@
 # db-backup #
-## Simples módulo Kohana para backup de banco de dados ##
   
 * Module Versions: 1.0.2 *
 * Module URL: http://github.com/sudeste/db-backup
@@ -7,8 +6,12 @@
 
 -----------------------------------------------------------
 ## Descrição ##
+#### Simples módulo Kohana para backup de banco de dados ####
+
 Kohana db-backup usa mysqldump ou mysqlselect caso seu host não aceite mysqldump.
 As configurações de autenticação do banco de dados vem do módulo database.
+[English] Kohana uses mysqldump db-backup mysqlselect or if your host does not accept mysqldump.
+ Authentication settings of the database comes from the module database.
 
 -----------------------------------------------------------
 ## Como usar ##
